@@ -12,6 +12,7 @@ namespace ConsoleApp5
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            String[] nevek = new string[100];
             Console.ReadKey(true);
         }
     }
